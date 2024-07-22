@@ -52,10 +52,11 @@ for fila in tabla.tbody.find_all('tr'):
                                      'Vinculo': [vinculo]})
         df = pd.concat([df,prev_df], ignore_index=True )
 
+df.to_excel('lista_distritos.xlsx',engine='xlsxwriter')
 
 #obtener XXXXX m s. n. m. Buscar con regex. Link de cada distrito esta en
 #<a class="mw-redirect" href="/wiki/Duacar%C3%AD_(Costa_Rica)"
-df['elevacion'] = 'No info'
+df['dist_elevacion'] = 'No info'
 for i in range(0,len(df.Vinculo)):
     prev_dir = 'http://es.wikipedia.org'+df.Vinculo[i]
     #print(prev_dir)
@@ -66,6 +67,6 @@ for i in range(0,len(df.Vinculo)):
         msnm = msnm.parent.find_previous().text
         if len(msnm) > 10:
             msnm = str(re.search(r'\d+', msnm).group())
-            df.loc[[i],'elevacion'] = msnm
+            df.loc[[i],'dist_elevacion'] = msnm
 
 sopadeliciosa.find(string='m s. n. m.').parent.find_previous().text
