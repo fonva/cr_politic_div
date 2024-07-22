@@ -1,0 +1,492 @@
+Canton,Distrito,CodigoPostal,Area,Poblacion2022,Vinculo
+San José,Carmen,10101,"1,47",2946,/wiki/Carmen_(Costa_Rica)
+San José,Merced,10102,"2,17",15 408,/wiki/Merced_(Costa_Rica)
+San José,Hospital,10103,"3,3",24 030,/wiki/Hospital_(Costa_Rica)
+San José,Catedral,10104,"2,35",15 682,/wiki/Catedral_(Costa_Rica)
+San José,Zapote,10105,"2,87",21 990,/wiki/Zapote_(Costa_Rica)
+San José,San Francisco de Dos Ríos,10106,"2,64",23 745,/wiki/San_Francisco_de_Dos_R%C3%ADos
+San José,Uruca,10107,"8,44",42 861,/wiki/La_Uruca
+San José,Mata Redonda,10108,"3,69",10 119,/wiki/Mata_Redonda_(San_Jos%C3%A9)
+San José,Pavas,10109,"9,39",89 531,/wiki/Pavas_(San_Jos%C3%A9)
+San José,Hatillo,10110,"4,38",60 723,/wiki/Hatillo_(San_Jos%C3%A9)
+San José,San Sebastián,10111,"4,01",44 923,/wiki/San_Sebasti%C3%A1n_(San_Jos%C3%A9)
+Escazú,Escazú,10201,"4,56",13 752,/wiki/Escaz%C3%BA_(Costa_Rica)
+Escazú,San Antonio,10202,"17,01",28 329,/wiki/San_Antonio_de_Escaz%C3%BA
+Escazú,San Rafael,10203,"12,96",29 121,/wiki/San_Rafael_de_Escaz%C3%BA
+Desamparados,Desamparados,10301,"3,31",37 479,/wiki/Desamparados_(Costa_Rica)
+Desamparados,San Miguel,10302,"21,36",38 716,/wiki/San_Miguel_de_Desamparados
+Desamparados,San Juan de Dios,10303,"2,98",24 505,/wiki/San_Juan_de_Dios_(Costa_Rica)
+Desamparados,San Rafael Arriba,10304,"3,21",18 412,/wiki/San_Rafael_Arriba
+Desamparados,San Antonio,10305,"2,1",11 343,/wiki/San_Antonio_de_Desamparados
+Desamparados,Frailes,10306,"19,57",4586,/wiki/Frailes_(Costa_Rica)
+Desamparados,Patarrá,10307,"16,09",14 919,/wiki/Patarr%C3%A1
+Desamparados,San Cristóbal,10308,"25,47",4769,/wiki/San_Crist%C3%B3bal_(Costa_Rica)
+Desamparados,Rosario,10309,"14,77",3787,/wiki/Rosario_de_Desamparados
+Desamparados,Damas,10310,"2,57",15 713,/wiki/Damas_(Costa_Rica)
+Desamparados,San Rafael Abajo,10311,"2,01",26 781,/wiki/San_Rafael_Abajo
+Desamparados,Gravilias,10312,"2,94",17 237,/wiki/Gravilias_(Costa_Rica)
+Desamparados,Los Guido,10313,"3,01",31 120,/wiki/Los_Guido
+Puriscal,Santiago,10401,"34,52",12 600,/wiki/Santiago_de_Puriscal
+Puriscal,Mercedes Sur,10402,"183,58",7099,/wiki/Mercedes_Sur
+Puriscal,Barbacoas,10403,"18,74",4486,/wiki/Barbacoas_(Costa_Rica)
+Puriscal,Grifo Alto,10404,"26,21",1492,/wiki/Grifo_Alto_(Costa_Rica)
+Puriscal,San Rafael,10405,"15,53",2009,/wiki/San_Rafael_de_Puriscal
+Puriscal,Candelarita,10406,"24,87",1753,/wiki/Candelarita_(Costa_Rica)
+Puriscal,Desamparaditos,10407,"7,14",794,/wiki/Desamparaditos_(Costa_Rica)
+Puriscal,San Antonio,10408,"14,5",4720,/wiki/San_Antonio_de_Puriscal
+Puriscal,Chires,10409,"230,47",3640,/wiki/Chires
+Tarrazú,San Marcos,10501,"45,53",11 365,/wiki/San_Marcos_de_Tarraz%C3%BA
+Tarrazú,San Lorenzo,10502,"185,64",5250,/wiki/San_Lorenzo_(Costa_Rica)
+Tarrazú,San Carlos,10503,"58,58",2172,/wiki/San_Carlos_de_Tarraz%C3%BA
+Aserrí,Aserrí,10601,"15,25",30 347,/wiki/Aserr%C3%AD
+Aserrí,Tarbaca,10602,"15,33",1676,/wiki/Tarbaca
+Aserrí,Vuelta de Jorco,10603,"22,04",7342,/wiki/Vuelta_de_Jorco
+Aserrí,San Gabriel,10604,"11,76",6930,/wiki/San_Gabriel_de_Aserr%C3%AD
+Aserrí,Legua,10605,"81,51",1748,/wiki/Legua_(Costa_Rica)
+Aserrí,Monterrey,10606,"8,36",558,/wiki/Monterrey_de_Aserr%C3%AD
+Aserrí,Salitrillos,10607,"14,35",15 879,/wiki/Salitrillos
+Mora,Colón,10701,"40,12",17 411,/wiki/Col%C3%B3n_(Costa_Rica)
+Mora,Guayabo,10702,"8,99",5414,/wiki/Guayabo_(Costa_Rica)
+Mora,Tabarcia,10703,"40,39",5160,/wiki/Tabarcia
+Mora,Piedras Negras,10704,"14,84",498,/wiki/Piedras_Negras_(Costa_Rica)
+Mora,Picagres,10705,"27,2",899,/wiki/Picagres
+Mora,Jaris,10706,"5,53",1377,/wiki/Jaris
+Mora,Quitirrisí,10707,"26,69",,/wiki/Quitirris%C3%AD
+Goicoechea,Guadalupe,10801,"2,38",22 347,/wiki/Guadalupe_(Costa_Rica)
+Goicoechea,San Francisco,10802,"0,57",2421,/wiki/San_Francisco_(Goicoechea)
+Goicoechea,Calle Blancos,10803,"2,36",23 451,/wiki/Calle_Blancos
+Goicoechea,Mata de Plátano,10804,"7,85",21 198,/wiki/Mata_de_Pl%C3%A1tano_(Costa_Rica)
+Goicoechea,Ipís,10805,"2,37",32 049,/wiki/Ip%C3%ADs
+Goicoechea,Rancho Redondo,10806,"13,38",3224,/wiki/Rancho_Redondo
+Goicoechea,Purral,10807,"3,11",36 074,/wiki/Purral
+Santa Ana,Santa Ana,10901,"5,4",12 956,/wiki/Santa_Ana_(Costa_Rica)
+Santa Ana,Salitral,10902,"20,2",5587,/wiki/Salitral_(Costa_Rica)
+Santa Ana,Pozos,10903,"13,34",20 671,/wiki/Pozos_(Costa_Rica)
+Santa Ana,Uruca,10904,"7,07",9129,/wiki/Uruca_de_Santa_Ana
+Santa Ana,Piedades,10905,"12,01",10 263,/wiki/Piedades_(Costa_Rica)
+Santa Ana,Brasil,10906,"3,25",3247,/wiki/Brasil_(Costa_Rica)
+Alajuelita,Alajuelita,11001,"1,3",13 325,/wiki/Alajuelita
+Alajuelita,San Josecito,11002,"2,42",13 069,/wiki/San_Josecito_de_Alajuelita
+Alajuelita,San Antonio,11003,"10,22",6003,/wiki/San_Antonio_de_Alajuelita
+Alajuelita,Concepción,11004,"2,4",23 455,/wiki/Concepci%C3%B3n_de_Alajuelita
+Alajuelita,San Felipe,11005,"5,1",41 306,/wiki/San_Felipe_de_Alajuelita
+Vázquez de Coronado,San Isidro,11101,"5,14",18 631,/wiki/San_Isidro_(V%C3%A1zquez_de_Coronado)
+Vázquez de Coronado,San Rafael,11102,"16,95",8643,/wiki/San_Rafael_de_Coronado
+Vázquez de Coronado,Dulce Nombre de Jesús,11103,"67,86",12 149,/wiki/Dulce_Nombre_de_Jes%C3%BAs_(Costa_Rica)
+Vázquez de Coronado,Patalillo,11104,"1,97",24 907,/wiki/Patalillo
+Vázquez de Coronado,Cascajal,11105,"131,72",8602,/wiki/Cascajal_(Costa_Rica)
+Acosta,San Ignacio,11201,"22,63",9475,/wiki/San_Ignacio_de_Acosta
+Acosta,Guaitil,11202,"43,85",2685,/wiki/Guaitil_(Costa_Rica)
+Acosta,Palmichal,11203,"34,17",5308,/wiki/Palmichal
+Acosta,Cangrejal,11204,"64,46",2121,/wiki/Cangrejal
+Acosta,Sabanillas,11205,"176,83",2668,/wiki/Sabanillas_de_Acosta
+Tibás,San Juan,11301,"3,56",25 866,/wiki/San_Juan_de_Tib%C3%A1s
+Tibás,Cinco Esquinas,11302,"0,67",8617,/wiki/Cinco_Esquinas_(Costa_Rica)
+Tibás,Anselmo Llorente,11303,"1,36",12 913,/wiki/Anselmo_Llorente_(Costa_Rica)
+Tibás,León XIII,11304,"0,78",20 551,/wiki/Le%C3%B3n_XIII_(Costa_Rica)
+Tibás,Colima,11305,2,18 118,/wiki/Colima_(Costa_Rica)
+Moravia,San Vicente,11401,"5,39",32 041,/wiki/San_Vicente_de_Moravia
+Moravia,San Jerónimo,11402,"18,58",7463,/wiki/San_Jer%C3%B3nimo_de_Moravia
+Moravia,La Trinidad,11403,"4,94",23 755,/wiki/La_Trinidad_de_Moravia
+Montes de Oca,San Pedro,11501,"4,7",28 844,/wiki/San_Pedro_de_Montes_de_Oca
+Montes de Oca,Sabanilla,11502,"1,78",14 082,/wiki/Sabanilla_(Montes_de_Oca)
+Montes de Oca,Mercedes,11503,"1,44",6086,/wiki/Mercedes_de_Montes_de_Oca
+Montes de Oca,San Rafael,11504,"7,74",13 832,/wiki/San_Rafael_de_Montes_de_Oca
+Turrubares,San Pablo,11601,"26,37",1573,/wiki/San_Pablo_de_Turrubares
+Turrubares,San Pedro,11602,"39,11",861,/wiki/San_Pedro_de_Turrubares
+Turrubares,San Juan de Mata,11603,"86,17",1546,/wiki/San_Juan_de_Mata_(Costa_Rica)
+Turrubares,San Luis,11604,"43,71",721,/wiki/San_Luis_(Costa_Rica)
+Turrubares,Carara,11605,"220,35",2330,/wiki/Carara
+Dota,Santa María,11701,"92,84",5251,/wiki/Santa_Mar%C3%ADa_de_Dota
+Dota,Jardín,11702,"32,71",702,/wiki/Jard%C3%ADn_de_Dota
+Dota,Copey,11703,"279,41",2088,/wiki/Copey_de_Dota
+Curridabat,Curridabat,11801,"6,16",32 605,/wiki/Curridabat
+Curridabat,Granadilla,11802,"3,52",19 207,/wiki/Granadilla_(Costa_Rica)
+Curridabat,Sánchez,11803,"4,53",6833,/wiki/S%C3%A1nchez_(Costa_Rica)
+Curridabat,Tirrases,11804,"1,87",22 032,/wiki/Tirrases
+Pérez Zeledón,San Isidro de El General,11901,"191,53",48 435,/wiki/San_Isidro_de_El_General
+Pérez Zeledón,El General,11902,"76,35",6873,/wiki/El_General_(Costa_Rica)
+Pérez Zeledón,Daniel Flores,11903,"64,3",35 584,/wiki/Daniel_Flores_(Costa_Rica)
+Pérez Zeledón,Rivas,11904,"310,28",7318,/wiki/Rivas_(Costa_Rica)
+Pérez Zeledón,San Pedro,11905,"205,96",9344,/wiki/San_Pedro_de_P%C3%A9rez_Zeled%C3%B3n
+Pérez Zeledón,Platanares,11906,"79,84",7497,/wiki/Platanares_(Costa_Rica)
+Pérez Zeledón,Pejibaye,11907,"140,78",7972,/wiki/Pejibaye_de_P%C3%A9rez_Zeled%C3%B3n
+Pérez Zeledón,Cajón,11908,"118,86",9045,/wiki/Caj%C3%B3n_(Costa_Rica)
+Pérez Zeledón,Barú,11909,"191,42",2854,/wiki/Bar%C3%BA_de_P%C3%A9rez_Zeled%C3%B3n
+Pérez Zeledón,Río Nuevo,11910,"240,68",3495,/wiki/R%C3%ADo_Nuevo_(Costa_Rica)
+Pérez Zeledón,Páramo,11911,"203,17",4865,/wiki/P%C3%A1ramo_(Costa_Rica)
+Pérez Zeledón,La Amistad,11912,"76,11",,/wiki/La_Amistad_de_P%C3%A9rez_Zeled%C3%B3n
+León Cortés Castro,San Pablo,12001,"20,86",4663,/wiki/San_Pablo_de_Le%C3%B3n_Cort%C3%A9s_Castro
+León Cortés Castro,San Andrés,12002,"16,08",1746,/wiki/San_Andr%C3%A9s_de_Le%C3%B3n_Cort%C3%A9s_Castro
+León Cortés Castro,Llano Bonito,12003,"34,51",2269,/wiki/Llano_Bonito_de_Le%C3%B3n_Cort%C3%A9s_Castro
+León Cortés Castro,San Isidro,12004,"18,86",1870,/wiki/San_Isidro_de_Le%C3%B3n_Cort%C3%A9s_Castro
+León Cortés Castro,Santa Cruz,12005,"21,97",2164,/wiki/Santa_Cruz_de_Le%C3%B3n_Cort%C3%A9s_Castro
+León Cortés Castro,San Antonio,12006,"10,15",1278,/wiki/San_Antonio_de_Le%C3%B3n_Cort%C3%A9s_Castro
+Alajuela,Alajuela,20101,"8,89",48 326,/wiki/Alajuela_(ciudad)
+Alajuela,San José,20102,"14,69",52 686,/wiki/San_Jos%C3%A9_de_Alajuela
+Alajuela,Carrizal,20103,"16,12",9002,/wiki/Carrizal_de_Alajuela
+Alajuela,San Antonio,20104,"8,93",31 637,/wiki/San_Antonio_de_Alajuela
+Alajuela,Guácima,20105,"28,04",26 642,/wiki/Gu%C3%A1cima_de_Alajuela
+Alajuela,San Isidro,20106,"36,09",22 586,/wiki/San_Isidro_de_Alajuela
+Alajuela,Sabanilla,20107,"43,05",12 396,/wiki/Sabanilla_(Alajuela)
+Alajuela,San Rafael,20108,"19,29",34 182,/wiki/San_Rafael_de_Alajuela
+Alajuela,Río Segundo,20109,"5,57",13 561,/wiki/R%C3%ADo_Segundo_de_Alajuela
+Alajuela,Desamparados,20110,"12,95",33 654,/wiki/Desamparados_de_Alajuela
+Alajuela,Turrúcares,20111,"35,99",9349,/wiki/Turr%C3%BAcares
+Alajuela,Tambor,20112,"13,88",14 338,/wiki/Tambor_de_Alajuela
+Alajuela,Garita,20113,"33,91",9492,/wiki/La_Garita_(Costa_Rica)
+Alajuela,Sarapiquí,20114,"113,98",4021,/wiki/Sarapiqu%C3%AD_(Alajuela)
+San Ramón,San Ramón,20201,"1,28",9107,/wiki/San_Ram%C3%B3n_(Costa_Rica)
+San Ramón,Santiago,20202,61,5699,/wiki/Santiago_de_San_Ram%C3%B3n
+San Ramón,San Juan,20203,"5,09",13 406,/wiki/San_Juan_de_San_Ram%C3%B3n
+San Ramón,Piedades Norte,20204,"47,2",9564,/wiki/Piedades_Norte
+San Ramón,Piedades Sur,20205,"116,29",4603,/wiki/Piedades_Sur
+San Ramón,San Rafael,20206,"30,73",10 904,/wiki/San_Rafael_de_San_Ram%C3%B3n
+San Ramón,San Isidro,20207,"8,72",5938,/wiki/San_Isidro_de_San_Ram%C3%B3n
+San Ramón,Ángeles,20208,"81,41",9793,/wiki/%C3%81ngeles_de_San_Ram%C3%B3n
+San Ramón,Alfaro,20209,"17,87",8402,/wiki/Alfaro_de_San_Ram%C3%B3n
+San Ramón,Volio,20210,"20,46",2727,/wiki/Volio_de_San_Ram%C3%B3n
+San Ramón,Concepción,20211,"9,49",2765,/wiki/Concepci%C3%B3n_de_San_Ram%C3%B3n
+San Ramón,Zapotal,20212,"67,24",515,/wiki/Zapotal_de_San_Ram%C3%B3n
+San Ramón,Peñas Blancas,20213,"247,04",12 371,/wiki/Pe%C3%B1as_Blancas_de_San_Ram%C3%B3n
+San Ramón,San Lorenzo,20214,"309,15",,/wiki/San_Lorenzo_de_San_Ram%C3%B3n
+Grecia,Grecia,20301,"7,51",16 146,/wiki/Grecia_(Costa_Rica)
+Grecia,San Isidro,20302,"17,01",7293,/wiki/San_Isidro_de_Grecia
+Grecia,San José,20303,"12,36",10 231,/wiki/San_Jos%C3%A9_de_Grecia
+Grecia,San Roque,20304,27,13 660,/wiki/San_Roque_de_Grecia
+Grecia,Tacares,20305,"24,82",10 050,/wiki/Tacares
+Grecia,Puente de Piedra,20307,"23,07",13 274,/wiki/Puente_de_Piedra_(Costa_Rica)
+Grecia,Bolívar,20308,"30,77",9018,/wiki/Bol%C3%ADvar_(Costa_Rica)
+San Mateo,San Mateo,20401,"64,85",3071,/wiki/San_Mateo_(Costa_Rica)
+San Mateo,Desmonte,20402,"20,19",1201,/wiki/Desmonte_de_San_Mateo
+San Mateo,Jesús María,20403,"18,79",1517,/wiki/Jes%C3%BAs_Mar%C3%ADa_de_San_Mateo
+San Mateo,Labrador,20404,"20,96",1487,/wiki/Labrador_de_San_Mateo
+Atenas,Atenas,20501,"9,76",8015,/wiki/Atenas_(Costa_Rica)
+Atenas,Jesús,20502,"17,96",4396,/wiki/Jes%C3%BAs_de_Atenas
+Atenas,Mercedes,20503,"7,81",3832,/wiki/Mercedes_de_Atenas
+Atenas,San Isidro,20504,"14,48",3521,/wiki/San_Isidro_de_Atenas
+Atenas,Concepción,20505,"21,94",4261,/wiki/Concepci%C3%B3n_de_Atenas
+Atenas,San José,20506,"13,44",2326,/wiki/San_Jos%C3%A9_de_Atenas
+Atenas,Santa Eulalia,20507,"14,59",2510,/wiki/Santa_Eulalia_de_Atenas
+Atenas,Escobal,20508,"26,5",1019,/wiki/Escobal_(Costa_Rica)
+Naranjo,Naranjo,20601,"17,26",17 348,/wiki/Naranjo_(Costa_Rica)
+Naranjo,San Miguel,20602,"15,52",5782,/wiki/San_Miguel_de_Naranjo
+Naranjo,San José,20603,"21,12",3666,/wiki/San_Jos%C3%A9_de_Naranjo
+Naranjo,Cirrí Sur,20604,"32,07",5533,/wiki/Cirr%C3%AD_Sur
+Naranjo,San Jerónimo,20605,"9,12",4076,/wiki/San_Jer%C3%B3nimo_de_Naranjo
+Naranjo,San Juan,20606,"6,78",3688,/wiki/San_Juan_de_Naranjo
+Naranjo,El Rosario,20607,"17,21",4638,/wiki/El_Rosario_de_Naranjo
+Naranjo,Palmitos,20608,"8,09",5033,/wiki/Palmitos_de_Naranjo
+Palmares,Palmares,20701,"1,14",3764,/wiki/Palmares_(Costa_Rica)
+Palmares,Zaragoza,20702,"8,34",9901,/wiki/Zaragoza_(Costa_Rica)
+Palmares,Buenos Aires,20703,"6,88",8931,/wiki/Buenos_Aires_de_Palmares
+Palmares,Santiago,20704,"7,94",3379,/wiki/Santiago_de_Palmares
+Palmares,Candelaria,20705,"4,69",2457,/wiki/Candelaria_de_Palmares
+Palmares,Esquipulas,20706,"5,41",8435,/wiki/Esquipulas_de_Palmares
+Palmares,La Granja,20707,"4,44",4938,/wiki/La_Granja_de_Palmares
+Poás,San Pedro,20801,"13,63",8243,/wiki/San_Pedro_de_Po%C3%A1s
+Poás,San Juan,20802,"16,31",5647,/wiki/San_Juan_de_Po%C3%A1s
+Poás,San Rafael,20803,"14,19",6655,/wiki/San_Rafael_de_Po%C3%A1s
+Poás,Carrillos,20804,"10,14",11 330,/wiki/Carrillos
+Poás,Sabana Redonda,20805,"20,33",3051,/wiki/Sabana_Redonda
+Orotina,Orotina,20901,"21,59",10 680,/wiki/Orotina_(Costa_Rica)
+Orotina,El Mastate,20902,"9,53",2249,/wiki/El_Mastate
+Orotina,Hacienda Vieja,20903,"16,93",1242,/wiki/Hacienda_Vieja_de_Orotina
+Orotina,Coyolar,20904,"36,51",7685,/wiki/Coyolar
+Orotina,La Ceiba,20905,"60,55",2592,/wiki/La_Ceiba_de_Orotina
+San Carlos,Quesada,21001,144,46 127,/wiki/Quesada_(Costa_Rica)
+San Carlos,Florencia,21002,"198,54",18 517,/wiki/Florencia_(San_Carlos)
+San Carlos,Buenavista,21003,"25,98",420,/wiki/Buenavista_(San_Carlos)
+San Carlos,Aguas Zarcas,21004,"185,86",26 305,/wiki/Aguas_Zarcas
+San Carlos,Venecia,21005,"132,44",12 172,/wiki/Venecia_(San_Carlos)
+San Carlos,Pital,21006,"379,61",25 359,/wiki/Pital_(San_Carlos)
+San Carlos,La Fortuna,21007,"229,7",19 584,/wiki/La_Fortuna_(Costa_Rica)
+San Carlos,La Tigra,21008,"56,44",7964,/wiki/La_Tigra_(San_Carlos)
+San Carlos,La Palmera,21009,"100,45",7940,/wiki/La_Palmera_(San_Carlos)
+San Carlos,Venado,21010,"169,28",2173,/wiki/Venado_(San_Carlos)
+San Carlos,Cutris,21011,"848,01",15 537,/wiki/Cutris
+San Carlos,Monterrey,21012,"220,2",4321,/wiki/Monterrey_(San_Carlos)
+San Carlos,Pocosol,21013,"660,75",19 696,/wiki/Pocosol
+Zarcero,Zarcero,21101,"11,72",4397,/wiki/Zarcero_(Costa_Rica)
+Zarcero,Laguna,21102,"23,36",2031,/wiki/Laguna_de_Zarcero
+Zarcero,Tapesco,21103,"6,33",1582,/wiki/Tapesco
+Zarcero,Guadalupe,21104,"22,58",1427,/wiki/Guadalupe_de_Zarcero
+Zarcero,Palmira,21105,"30,44",1712,/wiki/Palmira_de_Zarcero
+Zarcero,Zapote,21106,"44,77",944,/wiki/Zapote_de_Zarcero
+Zarcero,Brisas,21107,"17,87",2536,/wiki/Brisas_de_Zarcero
+Sarchí,Sarchí Norte,21201,"21,3",8382,/wiki/Sarch%C3%AD_Norte
+Sarchí,Sarchí Sur,21202,"6,36",6539,/wiki/Sarch%C3%AD_Sur
+Sarchí,Toro Amarillo,21203,"90,93",380,/wiki/Toro_Amarillo
+Sarchí,San Pedro,21204,"10,92",4463,/wiki/San_Pedro_de_Sarch%C3%AD
+Sarchí,Rodríguez,21205,"7,21",2832,/wiki/Rodr%C3%ADguez_(Costa_Rica)
+Upala,Upala,21301,"148,65",16 850,/wiki/Upala
+Upala,Aguas Claras,21302,"408,93",5714,/wiki/Aguas_Claras_de_Upala
+Upala,San José,21303,"285,39",8795,/wiki/San_Jos%C3%A9_de_Upala
+Upala,Bijagua,21304,"186,39",5363,/wiki/Bijagua
+Upala,Delicias,21305,"98,57",5479,/wiki/Delicias_de_Upala
+Upala,Dos Ríos,21306,"218,07",4017,/wiki/Dos_R%C3%ADos_de_Upala
+Upala,Yolillal,21307,"139,54",4129,/wiki/Yolillal
+Upala,Canalete,21308,"106,45",5119,/wiki/Canalete_de_Upala
+Los Chiles,Los Chiles,21401,"504,21",21 714,/wiki/Los_Chiles
+Los Chiles,Caño Negro,21402,301,2333,/wiki/Ca%C3%B1o_Negro_(Costa_Rica)
+Los Chiles,El Amparo,21403,"313,29",7772,/wiki/El_Amparo_(Costa_Rica)
+Los Chiles,San Jorge,21404,"214,94",3369,/wiki/San_Jorge_de_Los_Chiles
+Guatuso,San Rafael,21501,"304,29",10 117,/wiki/San_Rafael_de_Guatuso
+Guatuso,Buenavista,21502,"150,97",1990,/wiki/Buenavista_de_Guatuso
+Guatuso,Cote,21503,"183,94",1092,/wiki/Cote_de_Guatuso
+Guatuso,Katira,21504,"114,4",6497,/wiki/Katira
+Río Cuarto,Río Cuarto,21601,,,/wiki/R%C3%ADo_Cuarto_(distrito)
+Río Cuarto,Santa Rita,21602,,,/wiki/Santa_Rita_de_R%C3%ADo_Cuarto
+Río Cuarto,Santa Isabel,21603,,,/wiki/Santa_Isabel_de_R%C3%ADo_Cuarto
+Cartago,Oriental,30101,"2,04",12 310,/wiki/Oriental_de_Cartago
+Cartago,Occidental,30102,2,10 465,/wiki/Occidental_de_Cartago
+Cartago,Carmen,30103,"4,39",19 390,/wiki/Carmen_de_Cartago
+Cartago,San Nicolás,30104,"29,44",29 913,/wiki/San_Nicol%C3%A1s_(Cartago)
+Cartago,Aguacaliente,30105,"100,37",36 408,/wiki/Aguacaliente
+Cartago,Guadalupe,30106,"13,28",16 547,/wiki/Guadalupe_de_Cartago
+Cartago,Corralillo,30107,"32,57",12 064,/wiki/Corralillo_de_Cartago
+Cartago,Tierra Blanca,30108,"12,75",5926,/wiki/Tierra_Blanca_(Costa_Rica)
+Cartago,Dulce Nombre,30109,"33,11",12 004,/wiki/Dulce_Nombre_de_Cartago
+Cartago,Llano Grande,30110,"30,35",5120,/wiki/Llano_Grande_(Costa_Rica)
+Cartago,Quebradilla,30111,"18,91",6057,/wiki/Quebradilla
+Paraíso,Paraíso,30201,"19,5",21 561,/wiki/Para%C3%ADso_(Costa_Rica)
+Paraíso,Santiago,30202,"25,5",6493,/wiki/Santiago_de_Para%C3%ADso
+Paraíso,Orosi,30203,"376,41",10 208,/wiki/Orosi_(Costa_Rica)
+Paraíso,Cachí,30204,"41,24",5944,/wiki/Cach%C3%AD
+Paraíso,Llanos de Santa Lucía,30205,"6,55",19 590,/wiki/Llanos_de_Santa_Luc%C3%ADa
+Paraíso,Birrisito,30206,"7,5",,/wiki/Birrisito
+La Unión,Tres Ríos,30301,"2,19",9298,/wiki/Tres_R%C3%ADos_(La_Uni%C3%B3n)
+La Unión,San Diego,30302,"8,01",25 354,/wiki/San_Diego_de_La_Uni%C3%B3n
+La Unión,San Juan,30303,"3,94",15 752,/wiki/San_Juan_de_La_Uni%C3%B3n_(Costa_Rica)
+La Unión,San Rafael,30304,"9,46",16 277,/wiki/San_Rafael_de_La_Uni%C3%B3n
+La Unión,Concepción,30305,"3,8",19 259,/wiki/Concepci%C3%B3n_de_La_Uni%C3%B3n
+La Unión,Dulce Nombre,30306,"8,35",9289,/wiki/Dulce_Nombre_de_La_Uni%C3%B3n
+La Unión,San Ramón,30307,"3,47",4526,/wiki/San_Ram%C3%B3n_de_La_Uni%C3%B3n
+La Unión,Río Azul,30308,"4,89",14 860,/wiki/R%C3%ADo_Azul_(Costa_Rica)
+Jiménez,Juan Viñas,30401,"43,62",7095,/wiki/Juan_Vi%C3%B1as_(Costa_Rica)
+Jiménez,Tucurrique,30402,"33,52",5601,/wiki/Tucurrique
+Jiménez,Pejibaye,30403,"173,85",3665,/wiki/Pejibaye_de_Jim%C3%A9nez
+Jiménez,La Victoria,30404,"15,34",,/wiki/La_Victoria_(Costa_Rica)
+Turrialba,Turrialba,30501,"56,1",27 039,/wiki/Turrialba_(ciudad)
+Turrialba,La Suiza,30502,"160,36",7939,/wiki/La_Suiza_de_Turrialba
+Turrialba,Peralta,30503,"9,53",621,/wiki/Peralta_de_Turrialba
+Turrialba,Santa Cruz,30504,"124,94",3804,/wiki/Santa_Cruz_(Turrialba)
+Turrialba,Santa Teresita,30505,60,5402,/wiki/Santa_Teresita_de_Turrialba
+Turrialba,Pavones,30506,"42,13",4628,/wiki/Pavones_de_Turrialba
+Turrialba,Tuis,30507,"38,88",2950,/wiki/Tuis
+Turrialba,Tayutic,30508,"74,91",2506,/wiki/Tayutic
+Turrialba,Santa Rosa,30509,"22,29",5747,/wiki/Santa_Rosa_de_Turrialba
+Turrialba,Tres Equis,30510,"37,18",1964,/wiki/Tres_Equis_de_Turrialba
+Turrialba,La Isabel,30511,"19,96",6362,/wiki/La_Isabel_de_Turrialba
+Turrialba,Chirripó,30512,"942,09",4584,/wiki/Chirrip%C3%B3_(distrito)
+Alvarado,Pacayas,30601,"29,68",5989,/wiki/Pacayas
+Alvarado,Cervantes,30602,"15,19",6916,/wiki/Cervantes_(Costa_Rica)
+Alvarado,Capellades,30603,"34,32",2710,/wiki/Capellades_(Costa_Rica)
+Oreamuno,San Rafael,30701,"10,27",29 275,/wiki/San_Rafael_(Oreamuno)
+Oreamuno,Cot,30702,"15,05",11 360,/wiki/Cot_(Oreamuno)
+Oreamuno,Potrero Cerrado,30703,"18,2",2705,/wiki/Potrero_Cerrado
+Oreamuno,Cipreses,30704,"9,31",4234,/wiki/Cipreses_de_Oreamuno
+Oreamuno,Santa Rosa,30705,"149,81",3021,/wiki/Santa_Rosa_de_Oreamuno
+El Guarco,El Tejar,30801,"6,07",27 037,/wiki/El_Tejar_(Costa_Rica)
+El Guarco,San Isidro,30802,"134,73",11 632,/wiki/San_Isidro_de_El_Guarco
+El Guarco,Tobosi,30803,"19,9",7834,/wiki/Tobosi
+El Guarco,Patio de Agua,30804,"11,05",456,/wiki/Patio_de_Agua
+Heredia,Heredia,40101,"2,95",18 988,/wiki/Heredia_(Costa_Rica)
+Heredia,Mercedes,40102,"4,15",30 276,/wiki/Mercedes_de_Heredia
+Heredia,San Francisco,40103,"6,43",60 166,/wiki/San_Francisco_de_Heredia
+Heredia,Ulloa,40104,"11,47",35 618,/wiki/Ulloa_de_Heredia
+Heredia,Varablanca,40105,"258,05",972,/wiki/Varablanca
+Barva,Barva,40201,"0,82",5099,/wiki/Barva_(distrito)
+Barva,San Pedro,40202,"7,16",12 026,/wiki/San_Pedro_de_Barva
+Barva,San Pablo,40203,"6,94",10 105,/wiki/San_Pablo_de_Barva
+Barva,San Roque,40204,"1,29",5507,/wiki/San_Roque_de_Barva
+Barva,Santa Lucía,40205,"2,87",8524,/wiki/Santa_Luc%C3%ADa_de_Barva
+Barva,San José de la Montaña,40206,"36,82",6929,/wiki/San_Jos%C3%A9_de_la_Monta%C3%B1a_(Costa_Rica)
+Santo Domingo,Santo Domingo,40301,"0,79",5050,/wiki/Santo_Domingo_(Heredia)
+Santo Domingo,San Vicente,40302,"2,91",8072,/wiki/San_Vicente_de_Santo_Domingo
+Santo Domingo,San Miguel,40303,"5,9",7988,/wiki/San_Miguel_de_Santo_Domingo
+Santo Domingo,Paracito,40304,"1,12",2832,/wiki/Paracito
+Santo Domingo,Santo Tomás,40305,"3,51",7953,/wiki/Santo_Tom%C3%A1s_de_Santo_Domingo
+Santo Domingo,Santa Rosa,40306,"4,25",9264,/wiki/Santa_Rosa_de_Santo_Domingo
+Santo Domingo,Tures,40307,"3,9",4477,/wiki/Tures
+Santo Domingo,Pará,40308,"2,88",4199,/wiki/Par%C3%A1_(Costa_Rica)
+Santa Bárbara,Santa Bárbara,40401,"1,27",6394,/wiki/Santa_B%C3%A1rbara_(Costa_Rica)
+Santa Bárbara,San Pedro,40402,"2,48",7016,/wiki/San_Pedro_de_Santa_B%C3%A1rbara
+Santa Bárbara,San Juan,40403,"4,45",9308,/wiki/San_Juan_de_Santa_B%C3%A1rbara
+Santa Bárbara,Jesús,40404,"11,18",11 842,/wiki/Jes%C3%BAs_de_Santa_B%C3%A1rbara
+Santa Bárbara,Santo Domingo,40405,"26,43",3699,/wiki/Santo_Domingo_de_Santa_B%C3%A1rbara
+Santa Bárbara,Purabá,40406,"6,09",5619,/wiki/Purab%C3%A1
+San Rafael,San Rafael,40501,"1,3",10 787,/wiki/San_Rafael_(Heredia)
+San Rafael,San Josecito,40502,"1,35",14 331,/wiki/San_Josecito_de_San_Rafael
+San Rafael,Santiago,40503,"1,64",10 534,/wiki/Santiago_de_San_Rafael
+San Rafael,Ángeles,40504,"21,23",13 017,/wiki/%C3%81ngeles_de_San_Rafael_(Costa_Rica)
+San Rafael,Concepción,40505,"22,67",7891,/wiki/Concepci%C3%B3n_de_San_Rafael
+San Isidro,San Isidro,40601,"2,66",6413,/wiki/San_Isidro_(Heredia)
+San Isidro,San José,40602,"11,37",8895,/wiki/San_Jos%C3%A9_de_San_Isidro
+San Isidro,Concepción,40603,"8,03",3115,/wiki/Concepci%C3%B3n_de_San_Isidro
+San Isidro,San Francisco,40604,"4,6",5232,/wiki/San_Francisco_de_San_Isidro
+Belén,San Antonio,40701,"3,54",11 625,/wiki/San_Antonio_(Bel%C3%A9n)
+Belén,La Ribera,40702,"4,28",7753,/wiki/La_Ribera_de_Bel%C3%A9n
+Belén,La Asunción,40703,"4,62",7475,/wiki/La_Asunci%C3%B3n_de_Bel%C3%A9n
+Flores,San Joaquín,40801,"2,58",8341,/wiki/San_Joaqu%C3%ADn_(Flores)
+Flores,Barrantes,40802,"2,3",5340,/wiki/Barrantes_de_Flores
+Flores,Llorente,40803,"1,89",11 720,/wiki/Llorente_de_Flores
+San Pablo,San Pablo,40901,"5,88",21 485,/wiki/San_Pablo_(Heredia)
+San Pablo,Rincón de Sabanilla,40902,"2,36",10 034,/wiki/Rinc%C3%B3n_de_Sabanilla
+Sarapiquí,Puerto Viejo,41001,"428,17",31 580,/wiki/Puerto_Viejo_(Sarapiqu%C3%AD)
+Sarapiquí,La Virgen,41002,"513,82",16 493,/wiki/La_Virgen_(Sarapiqu%C3%AD)
+Sarapiquí,Las Horquetas,41003,"565,41",35 957,/wiki/Horquetas_(Sarapiqu%C3%AD)
+Sarapiquí,Llanuras del Gaspar,41004,"267,74",2059,/wiki/Llanuras_del_Gaspar
+Sarapiquí,Cureña,41005,"369,02",1598,/wiki/Cure%C3%B1a_(Sarapiqu%C3%AD)
+Liberia,Liberia,50101,"563,57",67 132,/wiki/Liberia_(Costa_Rica)
+Liberia,Cañas Dulces,50102,"243,39",4075,/wiki/Ca%C3%B1as_Dulces
+Liberia,Mayorga,50103,"227,39",2032,/wiki/Mayorga_(Costa_Rica)
+Liberia,Nacascolo,50104,"327,05",3129,/wiki/Nacascolo_(Costa_Rica)
+Liberia,Curubandé,50105,"81,14",3242,/wiki/Curuband%C3%A9
+Nicoya,Nicoya,50201,"310,61",27 131,/wiki/Nicoya_(Costa_Rica)
+Nicoya,Mansión,50202,"212,47",5772,/wiki/Mansi%C3%B3n_de_Nicoya
+Nicoya,San Antonio,50203,"334,01",7148,/wiki/San_Antonio_de_Nicoya
+Nicoya,Quebrada Honda,50204,"106,03",2591,/wiki/Quebrada_Honda_(Costa_Rica)
+Nicoya,Sámara,50205,"109,19",4685,/wiki/S%C3%A1mara_(Costa_Rica)
+Nicoya,Nosara,50206,"134,57",7213,/wiki/Nosara
+Nicoya,Belén de Nosarita,50207,123,3084,/wiki/Bel%C3%A9n_de_Nosarita
+Santa Cruz,Santa Cruz,50301,"289,6",28 008,/wiki/Santa_Cruz_(Costa_Rica)
+Santa Cruz,Bolsón,50302,"32,47",2182,/wiki/Bols%C3%B3n_(Costa_Rica)
+Santa Cruz,Veintisiete de Abril,50303,"301,59",9302,/wiki/Veintisiete_de_Abril_(Santa_Cruz)
+Santa Cruz,Tempate,50304,"129,95",6467,/wiki/Tempate_(Costa_Rica)
+Santa Cruz,Cartagena,50305,"82,56",5147,/wiki/Cartagena_(Costa_Rica)
+Santa Cruz,Cuajiniquil,50306,"218,65",2678,/wiki/Cuajiniquil_de_Santa_Cruz
+Santa Cruz,Diriá,50307,"66,26",4983,/wiki/Diri%C3%A1_(Costa_Rica)
+Santa Cruz,Cabo Velas,50308,"73,5",4381,/wiki/Cabo_Velas
+Santa Cruz,Tamarindo,50309,"125,86",8136,/wiki/Tamarindo_(Costa_Rica)
+Bagaces,Bagaces,50401,"883,98",16 462,/wiki/Bagaces
+Bagaces,La Fortuna,50402,"163,37",3112,/wiki/La_Fortuna_de_Bagaces
+Bagaces,Mogote,50403,"181,79",4079,/wiki/Mogote_(Bagaces)
+Bagaces,Río Naranjo,50404,"43,83",1194,/wiki/R%C3%ADo_Naranjo_de_Bagaces
+Carrillo,Filadelfia,50501,"125,14",8967,/wiki/Filadelfia_(Costa_Rica)
+Carrillo,Palmira,50502,"31,42",6910,/wiki/Palmira_de_Carrillo
+Carrillo,Sardinal,50503,"261,43",20 094,/wiki/Sardinal_de_Carrillo
+Carrillo,Belén,50504,"181,55",11 785,/wiki/Bel%C3%A9n_de_Carrillo
+Cañas,Cañas,50601,"193,83",26 577,/wiki/Ca%C3%B1as_(Costa_Rica)
+Cañas,Palmira,50602,"203,96",1361,/wiki/Palmira_de_Ca%C3%B1as
+Cañas,San Miguel,50603,"120,86",2076,/wiki/San_Miguel_de_Ca%C3%B1as
+Cañas,Bebedero,50604,"58,26",2582,/wiki/Bebedero_(Costa_Rica)
+Cañas,Porozal,50605,"105,23",797,/wiki/Porozal
+Abangares,Las Juntas,50701,"229,16",10 437,/wiki/Las_Juntas_(Costa_Rica)
+Abangares,Sierra,50702,"112,01",2827,/wiki/Sierra_de_Abangares
+Abangares,San Juan,50703,"107,46",1857,/wiki/San_Juan_de_Abangares
+Abangares,Colorado,50704,"201,04",5161,/wiki/Colorado_de_Abangares
+Tilarán,Tilarán,50801,"139,43",9449,/wiki/Tilar%C3%A1n
+Tilarán,Quebrada Grande,50802,"33,72",3104,/wiki/Quebrada_Grande_de_Tilar%C3%A1n
+Tilarán,Tronadora,50803,"142,28",2029,/wiki/Tronadora_(Tilar%C3%A1n)
+Tilarán,Santa Rosa,50804,"71,8",2188,/wiki/Santa_Rosa_de_Tilar%C3%A1n
+Tilarán,Líbano,50805,"72,07",958,/wiki/L%C3%ADbano_de_Tilar%C3%A1n
+Tilarán,Tierras Morenas,50806,"83,46",1545,/wiki/Tierras_Morenas
+Tilarán,Arenal,50807,"73,72",2711,/wiki/Arenal_de_Tilar%C3%A1n
+Tilarán,Cabeceras,50808,"51,25",,/wiki/Cabeceras
+Nandayure,Carmona,50901,"31,83",2663,/wiki/Carmona_(Costa_Rica)
+Nandayure,Santa Rita,50902,"51,32",1480,/wiki/Santa_Rita_de_Nandayure
+Nandayure,Zapotal,50903,"105,18",1263,/wiki/Zapotal_de_Nandayure
+Nandayure,San Pablo,50904,"78,13",2362,/wiki/San_Pablo_de_Nandayure
+Nandayure,Porvenir,50905,"40,17",759,/wiki/Porvenir_de_Nandayure
+Nandayure,Bejuco,50906,"262,17",3311,/wiki/Bejuco_(Costa_Rica)
+La Cruz,La Cruz,51001,"345,5",13 204,/wiki/La_Cruz_(Costa_Rica)
+La Cruz,Santa Cecilia,51002,"258,16",9191,/wiki/Santa_Cecilia_(La_Cruz)
+La Cruz,La Garita,51003,"273,37",2665,/wiki/La_Garita_de_La_Cruz
+La Cruz,Santa Elena,51004,"513,35",3011,/wiki/Santa_Elena_de_La_Cruz
+Hojancha,Hojancha,51101,"79,05",4707,/wiki/Hojancha_(Costa_Rica)
+Hojancha,Monte Romo,51102,"74,97",724,/wiki/Monte_Romo
+Hojancha,Puerto Carrillo,51103,"76,75",1893,/wiki/Puerto_Carrillo_(Costa_Rica)
+Hojancha,Huacas,51104,"31,49",761,/wiki/Huacas_de_Hojancha
+Hojancha,Matambú,51105,,,/wiki/Matamb%C3%BA
+Puntarenas,Puntarenas,60101,"34,6",10 342,/wiki/Puntarenas_(distrito)
+Puntarenas,Pitahaya,60102,"109,66",2755,/wiki/Pitahaya_(Costa_Rica)
+Puntarenas,Chomes,60103,"120,3",6645,/wiki/Chomes
+Puntarenas,Lepanto,60104,"424,74",10 444,/wiki/Lepanto_(Puntarenas)
+Puntarenas,Paquera,60105,"337,7",8410,/wiki/Paquera
+Puntarenas,Manzanillo,60106,"60,31",3459,/wiki/Manzanillo_de_Puntarenas
+Puntarenas,Guacimal,60107,"114,49",1173,/wiki/Guacimal
+Puntarenas,Barranca,60108,"36,07",39 426,/wiki/Barranca_de_Puntarenas
+Puntarenas,Isla del Coco,60110,"23,52",,/wiki/Isla_del_Coco
+Puntarenas,Cóbano,60111,"317,06",9736,/wiki/C%C3%B3bano
+Puntarenas,Chacarita,60112,"4,92",21 244,/wiki/Chacarita_(Costa_Rica)
+Puntarenas,Chira,60113,"41,71",1714,/wiki/Isla_de_Chira
+Puntarenas,Acapulco,60114,"111,2",1560,/wiki/Acapulco_(Costa_Rica)
+Puntarenas,El Roble,60115,"7,94",21 240,/wiki/El_Roble_de_Puntarenas
+Puntarenas,Arancibia,60116,"45,04",784,/wiki/Arancibia_de_Puntarenas
+Esparza,Espíritu Santo,60201,"18,95",22 181,/wiki/Esp%C3%ADritu_Santo_(Costa_Rica)
+Esparza,San Juan Grande,60202,"18,7",8915,/wiki/San_Juan_Grande_(Costa_Rica)
+Esparza,Macacona,60203,"33,51",5482,/wiki/Macacona
+Esparza,San Rafael,60204,"34,35",1725,/wiki/San_Rafael_de_Esparza
+Esparza,San Jerónimo,60205,"49,95",941,/wiki/San_Jer%C3%B3nimo_de_Esparza
+Esparza,Caldera,60206,"62,01",,/wiki/Caldera_(Costa_Rica)
+Buenos Aires,Buenos Aires,60301,"555,37",29 454,/wiki/Buenos_Aires_(Costa_Rica)
+Buenos Aires,Volcán,60302,"187,56",3690,/wiki/Volc%C3%A1n_(distrito_de_Costa_Rica)
+Buenos Aires,Potrero Grande,60303,"626,4",6494,/wiki/Potrero_Grande_(Costa_Rica)
+Buenos Aires,Boruca,60304,"125,02",3289,/wiki/Boruca_(distrito)
+Buenos Aires,Pilas,60305,"114,81",1749,/wiki/Pilas_(Costa_Rica)
+Buenos Aires,Colinas,60306,"129,07",1391,/wiki/Colinas_(Costa_Rica)
+Buenos Aires,Chánguena,60307,"273,2",2929,/wiki/Ch%C3%A1nguena
+Buenos Aires,Biolley,60308,"208,71",2589,/wiki/Biolley
+Buenos Aires,Brunka,60309,"162,96",3197,/wiki/Brunka_(distrito)
+Montes de Oro,Miramar,60401,"110,64",9027,/wiki/Miramar_(Costa_Rica)
+Montes de Oro,La Unión,60402,"78,33",1513,/wiki/La_Uni%C3%B3n_(Montes_de_Oro)
+Montes de Oro,San Isidro,60403,"57,87",4047,/wiki/San_Isidro_(Montes_de_Oro)
+Osa,Puerto Cortés,60501,"230,98",8844,/wiki/Puerto_Cort%C3%A9s_(Costa_Rica)
+Osa,Palmar,60502,"250,72",9716,/wiki/Palmar_(Costa_Rica)
+Osa,Sierpe,60503,"631,15",3645,/wiki/Sierpe_(Costa_Rica)
+Osa,Bahía Ballena,60504,"160,39",3487,/wiki/Bah%C3%ADa_Ballena_(Osa)
+Osa,Piedras Blancas,60505,"263,27",4529,/wiki/Piedras_Blancas_(Costa_Rica)
+Osa,Bahía Drake,60506,"393,39",1162,/wiki/Bah%C3%ADa_Drake_(Osa)
+Quepos,Quepos,60601,"235,81",25 665,/wiki/Quepos
+Quepos,Savegre,60602,"216,07",4116,/wiki/Savegre
+Quepos,Naranjito,60603,"104,68",4239,/wiki/Naranjito_(Costa_Rica)
+Golfito,Golfito,60701,"357,32",11 867,/wiki/Golfito
+Golfito,Guaycará,60703,"323,11",14 120,/wiki/Guaycar%C3%A1
+Golfito,Pavón,60704,"353,26",7700,/wiki/Pav%C3%B3n_(Costa_Rica)
+Coto Brus,San Vito,60801,"74,88",16 629,/wiki/San_Vito_(Coto_Brus)
+Coto Brus,Sabalito,60802,"186,82",13 202,/wiki/Sabalito
+Coto Brus,Aguabuena,60803,"63,75",7050,/wiki/Aguabuena
+Coto Brus,Limoncito,60804,"124,04",4152,/wiki/Limoncito
+Coto Brus,Pittier,60805,"255,23",3247,/wiki/Pittier_(distrito)
+Coto Brus,Gutiérrez Braun,60806,"238,38",,/wiki/Guti%C3%A9rrez_Braun
+Parrita,Parrita,60901,"480,44",20 984,/wiki/Parrita
+Corredores,Corredor,61001,"276,37",20 050,/wiki/Corredor_(Costa_Rica)
+Corredores,La Cuesta,61002,"37,06",5333,/wiki/La_Cuesta_(Costa_Rica)
+Corredores,Canoas,61003,"122,54",15 929,/wiki/Canoas_(Costa_Rica)
+Corredores,Laurel,61004,"188,38",12 172,/wiki/Laurel_(Costa_Rica)
+Garabito,Jacó,61101,"141,11",18 613,/wiki/Jac%C3%B3
+Garabito,Tárcoles,61102,"172,87",8791,/wiki/T%C3%A1rcoles_(distrito)
+Garabito,Lagunillas,61103,,,/wiki/Lagunillas_(Garabito)
+Monteverde,Monteverde,60109,"53,05",4943,/wiki/Cant%C3%B3n_de_Monteverde
+Puerto Jiménez,Puerto Jiménez,60702,"722,56",12 836,/wiki/Puerto_Jim%C3%A9nez
+Limón,Limón,70101,"59,51",60 710,/wiki/Lim%C3%B3n_(Costa_Rica)
+Limón,Valle La Estrella,70102,"1238,66",20 818,/wiki/Valle_La_Estrella
+Limón,Río Blanco,70103,"131,29",10 257,/wiki/R%C3%ADo_Blanco_(distrito_en_Costa_Rica)
+Limón,Matama,70104,"339,13",8451,/wiki/Matama
+Pococí,Guápiles,70201,"222,63",39 611,/wiki/Gu%C3%A1piles_(Costa_Rica)
+Pococí,Jiménez,70202,"109,44",13 052,/wiki/Jim%C3%A9nez_(Pococ%C3%AD)
+Pococí,Rita,70203,"502,39",29 241,/wiki/La_Rita_(Pococ%C3%AD)
+Pococí,Roxana,70204,"175,67",20 342,/wiki/Roxana_(Pococ%C3%AD)
+Pococí,Cariari,70205,"200,96",40 278,/wiki/Cariari_(Pococ%C3%AD)
+Pococí,Colorado,70206,"1158,91",5040,/wiki/Colorado_(Pococ%C3%AD)
+Pococí,La Colonia,70207,"39,1",7110,/wiki/La_Colonia_(Pococ%C3%AD)
+Siquirres,Siquirres,70301,"373,27",34 576,/wiki/Siquirres_(Costa_Rica)
+Siquirres,Pacuarito,70302,"219,43",10 804,/wiki/Pacuarito
+Siquirres,Florida,70303,"82,76",2656,/wiki/Florida_(Costa_Rica)
+Siquirres,Germania,70304,"33,98",3062,/wiki/Germania_(Costa_Rica)
+Siquirres,El Cairo,70305,"107,2",7628,/wiki/El_Cairo_(Costa_Rica)
+Siquirres,Alegría,70306,"37,73",6947,/wiki/Alegr%C3%ADa_(Costa_Rica)
+Siquirres,Reventazón,70307,,,/wiki/Reventaz%C3%B3n_(Costa_Rica)
+Talamanca,Bratsi,70401,"180,44",10 590,/wiki/Bratsi_(Talamanca)
+Talamanca,Sixaola,70402,"169,32",11 847,/wiki/Sixaola_(Costa_Rica)
+Talamanca,Cahuita,70403,"234,6",13 656,/wiki/Cahuita
+Talamanca,Telire,70404,"2229,73",8709,/wiki/Telire_(Talamanca)
+Matina,Matina,70501,"351,75",10 437,/wiki/Matina_(Costa_Rica)
+Matina,Batán,70502,"213,69",20 814,/wiki/Bat%C3%A1n_(Costa_Rica)
+Matina,Carrandi,70503,"205,99",16 140,/wiki/Carrandi_(Costa_Rica)
+Guácimo,Guácimo,70601,"223,27",26 152,/wiki/Gu%C3%A1cimo_(Costa_Rica)
+Guácimo,Mercedes,70602,"90,43",2357,/wiki/Mercedes_(Costa_Rica)
+Guácimo,Pocora,70603,"72,7",8494,/wiki/Pocora
+Guácimo,Río Jiménez,70604,"113,59",11 836,/wiki/R%C3%ADo_Jim%C3%A9nez_(Costa_Rica)
+Guácimo,Duacarí,70605,"81,36",8182,/wiki/Duacar%C3%AD_(Costa_Rica)
