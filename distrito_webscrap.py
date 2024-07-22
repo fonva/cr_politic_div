@@ -52,7 +52,8 @@ for fila in tabla.tbody.find_all('tr'):
                                      'Vinculo': [vinculo]})
         df = pd.concat([df,prev_df], ignore_index=True )
 
-df.to_excel('lista_distritos.xlsx',engine='xlsxwriter')
+#df.to_excel('lista_distritos.xlsx',engine='xlsxwriter',index=False)
+df.to_csv('lista_distritos.csv',index=False)
 
 #obtener XXXXX m s. n. m. Buscar con regex. Link de cada distrito esta en
 #<a class="mw-redirect" href="/wiki/Duacar%C3%AD_(Costa_Rica)"
