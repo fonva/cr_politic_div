@@ -28,7 +28,7 @@ tabla = soup.find('table', class_='wikitable sortable')
 #    df_list[i] = rows
 
 
-df = pd.DataFrame(columns=['Canton','Distrito', 'CodigoPostal', 'Area', 'Poblacion2022','Vinculo'])
+df = pd.DataFrame(columns=['Canton','Distrito', 'codigo', 'Area', 'Poblacion2022','Vinculo'])
 #prev_df = pd.DataFrame(columns=['Distrito', 'CodigoPostal', 'Area', 'Poblacion2022'])
 # Collecting Ddata
 for fila in tabla.tbody.find_all('tr'):
@@ -39,25 +39,26 @@ for fila in tabla.tbody.find_all('tr'):
         if n_filas > 8:
             Canton = columnas[n_filas-9].text.strip()
         Distrito = columnas[n_filas-8].text.strip()
-        CodigoPostal = columnas[n_filas-7].text.strip()
+        codigo = columnas[n_filas-7].text.strip()
         Area = columnas[n_filas-6].text.strip()
-        Poblacion2022 = columnas[n_filas-5].text.strip()
+        Poblacion2022 = columnas[n_filas-5].text.strip().replace('\xa0', "")
         vinculo = columnas[n_filas-8].a.attrs.get('href')
 
         prev_df = pd.DataFrame(data={'Canton':[Canton],
                                      'Distrito': [Distrito],
-                                     'CodigoPostal': [CodigoPostal],
+                                     'codigo': [codigo],
                                      'Area': [Area],
                                      'Poblacion2022': [Poblacion2022],
                                      'Vinculo': [vinculo]})
         df = pd.concat([df,prev_df], ignore_index=True )
 
-#df.to_excel('lista_distritos.xlsx',engine='xlsxwriter',index=False)
+df['Area'] = pd.to_numeric(df.Area.str.replace(',','.'), errors='coerce')
+
 df.to_csv('lista_distritos.csv',index=False)
 
 #obtener XXXXX m s. n. m. Buscar con regex. Link de cada distrito esta en
 #<a class="mw-redirect" href="/wiki/Duacar%C3%AD_(Costa_Rica)"
-df['dist_elevacion'] = 'No info'
+df['dist_elevacion'] = None
 for i in range(0,len(df.Vinculo)):
     prev_dir = 'http://es.wikipedia.org'+df.Vinculo[i]
     #print(prev_dir)
@@ -70,4 +71,7 @@ for i in range(0,len(df.Vinculo)):
             msnm = str(re.search(r'\d+', msnm).group())
             df.loc[[i],'dist_elevacion'] = msnm
 
-sopadeliciosa.find(string='m s. n. m.').parent.find_previous().text
+#sopadeliciosa.find(string='m s. n. m.').parent.find_previous().text
+
+#df.to_excel('lista_distritos.xlsx',engine='xlsxwriter',index=False)
+df.to_csv('lista_distritos.csv',index=False)
