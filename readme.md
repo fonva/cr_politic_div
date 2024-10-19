@@ -1,6 +1,6 @@
 # Intl Disclaimer
 This project puts together different ideas on
-how to get data Costa Rica related data, as well
+how to get Costa Rica related data, as well
 as ideas on how to clean, process and visualize.
 Since the scope is CR public, a lot of naming
 is on spanish. Feel free to use this ideas.
