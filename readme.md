@@ -2,8 +2,9 @@
 This project puts together different ideas on
 how to get Costa Rica related data, as well
 as ideas on how to clean, process and visualize.
-Since the scope is CR public, a lot of naming
-is on spanish. Feel free to use this ideas.
+Since the project is intended for CR audience,
+most of the language, code names and comments
+are in spanish.
 
 # Bienvenida
 ¡Hola! Si eres de Costa Rica, y has empezado en
